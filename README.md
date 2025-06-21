@@ -1,6 +1,6 @@
 # AEcho Audio Engine
 
-**AEcho** is a minimal, modular, gapless Web Audio engine for seamlessly handling complex playback sequences like **intro → loop → exit**. Designed for web projects that demand precise, responsive audio transitions (e.g., games, music players, interactive art).
+**AEcho** is a minimal, gapless Web Audio engine for seamlessly handling complex playback sequences like **intro → loop → exit**. Designed for web projects that demand precise, responsive audio transitions (e.g., games, music players, interactive art).
 
 ---
 
